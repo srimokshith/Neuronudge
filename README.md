@@ -1,6 +1,6 @@
 # 💧 Hydration & Activity Monitor
 
-A desktop application that monitors your keyboard/mouse activity and reminds you to drink water at optimal intervals
+A desktop application that monitors your keyboard/mouse activity and reminds you to drink water at optimal intervals.
 
 ## Features
 
